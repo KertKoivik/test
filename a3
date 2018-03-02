@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+# Mingi jura script
+#
+echo -n "Tere
+" # väljasta eestikeelne tervitus
+#
+# skripti lõpp
