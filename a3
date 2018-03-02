@@ -4,5 +4,7 @@
 #
 echo -n "Tere
 " # väljasta eestikeelne tervitus
+echo -n "Hello
+" # väljasta inglisekeelne tervitus
 #
 # skripti lõpp
